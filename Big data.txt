@@ -1,0 +1,112 @@
+
+videoonlinelearning
+
+
+
+Design and implementation with Python/R in Enterprise environment.
+
+· Management and setting up of the Hadoop Cluster(V1 and V2)
+
+· Big Data component development and packaging as a library for integration
+
+· High and low level design of Big Data Architecture for Product
+
+· Build reusable code and libraries for future use
+
+· Ensure the technical feasibility of Big Data Designs
+
+· Optimize application for maximum speed and scalability
+
+· Collaborate with other team members and stakeholders
+
+Specific Skills and Technologies
+
+· BS or MS in Computer Science or equivalent
+
+· 3+ years of experience in enterprise Big Data development activities.
+
+· Knowledge of programming in Python or R
+• Working knowledge and experience in Messaging Services like Kafka (etc)
+
+· Cluster Management and Set Up experience is a Must
+
+· In Depth Knowledge about Big Data tools like Map Reduce (V1 and V2) and Data warehousing tools.
+
+· Sound knowledge in Spark.
+
+· Understanding of design patterns.
+
+· Thorough understanding and knowledge of Data Structures is must
+• JMS or and other Messaging
+• Strong and Fundamental understanding of Hadoop Cluster with experience in how to store and retrieve data from the cluster
+
+· Knowledge about Image and Video data management will be added advantage.
+
+· No SQL database understanding will be an added advantage
+
+· Thorough knowledge in Build and Release. Good exposure on GIT, Bitbucket, Maven and Jenkins
+
+· Exposure on Test Driven Development. Hands on experience with unit tesing, or any other automation test framework
+
+· Ability to work in a fast paced, test-driven collaborative and iterative programming environment
+
+· Excellent communication and interpersonal skills
+
+· Should be a good team player
+• Good coordination, attitude and able to communicate with team members and customers
+
+
+ Minimum 1.5 or 2 Years of strong experience on Spark/Storm/Cassandr/Kafka/Scala.
+
+1. Minimum 2 years of strong experience on Core Java, Hadoop ecosystem and any NoSQL Database.
+
+2. Minimum 1.5 or 2 Years of strong experience on Spark/Storm/Cassandr/Kafka/Scala.
+
+Technical/Functional Skills :
+
+1. Core Java, Multi-Threading, OOPS, Writing Parsers
+
+2. Hadoop/Hive/Pig/MapReduce
+
+3. Spark/Storm/Kafka/Scala/Cassandra
+
+4. SQL
+
+5. Cloud Computing(AWS/Azure etc)
+
+Roles & Responsibilities:
+
+1. Strong on Core Java, Multi-Threading, OOPS Concept, writing parsers in Core Java
+
+2. Should have strong knowledge on Hadoop ecosystem such as Hive/Pig/MapReduce
+
+3. Strong in SQL, NoSQL, RDBMS and Data warehousing concepts
+
+4. Writing complex MapReduce programs
+
+5. Should have strong experience on pipeline building such Spark or Storm or Cassandra or Scala.
+
+6. Designing efficient and robust ETL workflows
+
+7. Gather and process raw data at scale (including writing scripts, web scraping, calling APIs, write SQL queries, etc.).
+
+8. Tuning Hadoop solutions to improve performance and end-user experience;
+
+9. Processing unstructured data into a form suitable for analysis - and then do the analysis.
+
+10. Creating Big Data reference architecture deliverable
+
+11. Performance optimization in a Big Data environment
+
+Generic Leadership Skills:
+
+1. Should have prior customer facing experience.
+
+2. Ability to lead all requirement gathering sessions with the Customer
+
+3. Strong co-ordination and interpersonal skills to handle complex projects
+
+
+Requirements Strong hands on experience in Spark with Scala. Good hands on in Hadoop 2.4 stack MapReduce, Hive, Sqoop, Oozie, Ganglia, Flume, HBase, HCatalog, 
+KNOX, Pig. Experience with application architecture in a big data environment. Good knowledge of Spark Basic Concepts v2.1 Working knowledge of Spark-Core, 
+Spark-Streaming Spark-SQL. Hands on experience in Kafka Direct Stream. Hands on experience in Eclipse - Scala IDE.Profile Summary
